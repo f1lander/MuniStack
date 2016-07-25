@@ -596,11 +596,11 @@
         .controller('MDSidenavCtrl', MDSidenavCtrl)
         .controller('MDSubheaderCtrl', MDSubheaderCtrl)
         .controller('MDToastCtrl', MDToastCtrl)
-          .controller('ToastCtrl', ToastCtrl)
+        .controller('ToastCtrl', ToastCtrl)
         .controller('MDTooltipCtrl', MDTooltipCtrl)
         .controller('BottomSheetExample', BottomSheetExample)
-          .controller('ListBottomSheetCtrl', ListBottomSheetCtrl)
-          .controller('GridBottomSheetCtrl', GridBottomSheetCtrl)
+        .controller('ListBottomSheetCtrl', ListBottomSheetCtrl)
+        .controller('GridBottomSheetCtrl', GridBottomSheetCtrl)
         ;
 
     /*

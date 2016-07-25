@@ -17,7 +17,7 @@ module.exports = {
                     message: 'Error getting Customers.'
                 });
             }
-            return res.json(Customerss);
+            return res.json(Customers);
         });
     },
 
